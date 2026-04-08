@@ -1,16 +1,15 @@
-## Hi there 👋
+# Joshua Houessou — AI Automation Engineer
 
-<!--
-**orchelion-dev/orchelion-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered workflow systems for marketing agencies and B2B businesses.
 
-Here are some ideas to get you started:
+**What I specialize in:**
+- Automated lead enrichment & CRM pipelines (n8n + HubSpot)
+- AI client reporting systems (GPT-4 + Google Analytics API)
+- RAG-based customer support agents (OpenAI + Pinecone)
+- LinkedIn & email outbound automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** n8n · OpenAI · HubSpot · Pinecone · Webhooks · REST APIs
+
+**Currently building:** AI automation systems for European marketing agencies
+
+📩 joshua@orchelionsystems.com
